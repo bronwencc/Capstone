@@ -1,0 +1,514 @@
+,affiliation,id,name,citedby,citedby5y,cites_per_year,coauthors,email,hindex,hindex5y,i10index,i10index5y,interests,url_picture,filled,fileID,coauthor,area
+0,"University of Chicago, Booth School of Business",Tvzd5GgAAAAJ,Richard Thaler,151057,61520.0,"{1991: 412, 1992: 487, 1993: 505, 1994: 679, 1995: 746, 1996: 777, 1997: 899, 1998: 1191, 1999: 1401, 2000: 1513, 2001: 1973, 2002: 2355, 2003: 2929, 2004: 3515, 2005: 4100, 2006: 4603, 2007: 4728, 2008: 5425, 2009: 6140, 2010: 6964, 2011: 7586, 2012: 7959, 2013: 8583, 2014: 9373, 2015: 9539, 2016: 10175, 2017: 10819, 2018: 12417, 2019: 12687, 2020: 5810}",[],@chicagobooth.edu,98.0,80.0,183.0,145.0,['Behavioral Economics'],https://scholar.google.com/citations?view_op=medium_photo&user=Tvzd5GgAAAAJ,True,0aler,0,economics
+1,Bell Labs retired,3QEKOmMAAAAJ,Arthur Ashkin,41204,9838.0,"{1981: 138, 1982: 143, 1983: 123, 1984: 196, 1985: 259, 1986: 270, 1987: 339, 1988: 343, 1989: 410, 1990: 374, 1991: 407, 1992: 502, 1993: 383, 1994: 430, 1995: 466, 1996: 541, 1997: 592, 1998: 546, 1999: 711, 2000: 728, 2001: 751, 2002: 898, 2003: 1096, 2004: 1377, 2005: 1358, 2006: 1544, 2007: 1647, 2008: 1563, 2009: 1686, 2010: 1792, 2011: 1864, 2012: 1861, 2013: 2033, 2014: 1860, 2015: 1786, 2016: 1704, 2017: 1643, 2018: 1871, 2019: 1922, 2020: 912}",[],,62.0,35.0,117.0,53.0,"['Laser trapping', 'solar power']",https://scholar.google.com/citations?view_op=medium_photo&user=3QEKOmMAAAAJ,True,0hkin,0,physics
+2,"Norman Rostoker Chair Professor, UC Irvine",qwN3bpIAAAAJ,Toshiki Tajima,27945,7924.0,"{1982: 80, 1983: 105, 1984: 99, 1985: 191, 1986: 166, 1987: 206, 1988: 181, 1989: 206, 1990: 211, 1991: 245, 1992: 294, 1993: 266, 1994: 280, 1995: 360, 1996: 431, 1997: 475, 1998: 445, 1999: 447, 2000: 540, 2001: 615, 2002: 553, 2003: 611, 2004: 738, 2005: 724, 2006: 983, 2007: 878, 2008: 1012, 2009: 1378, 2010: 1297, 2011: 1285, 2012: 1367, 2013: 1453, 2014: 1400, 2015: 1289, 2016: 1614, 2017: 1368, 2018: 1384, 2019: 1470, 2020: 776}",[],@uci.edu,75.0,37.0,317.0,132.0,"['plasma physics', 'accelerators', 'lasers']",https://scholar.google.com/citations?view_op=medium_photo&user=qwN3bpIAAAAJ,True,0jima,1,
+3,University of Michigan,pGGjfS8AAAAJ,Daniel J. Klionsky,90326,43675.0,"{1997: 301, 1998: 326, 1999: 328, 2000: 533, 2001: 688, 2002: 691, 2003: 711, 2004: 1051, 2005: 1346, 2006: 1495, 2007: 1964, 2008: 2921, 2009: 3583, 2010: 4287, 2011: 4971, 2012: 6284, 2013: 6385, 2014: 7208, 2015: 7484, 2016: 7887, 2017: 7595, 2018: 7448, 2019: 7911, 2020: 5325}","[{'affiliation': 'Department of Biomedical Sciences of Cells & Systems, '
+                'University Medical Center Gorningen',
+ 'filled': False,
+ 'id': '_UP6HXMAAAAJ',
+ 'name': 'Fulvio Reggiori'}, {'affiliation': 'Cornell University',
+ 'filled': False,
+ 'id': 'ouLKf2YAAAAJ',
+ 'name': 'Scott D Emr'}, {'affiliation': 'Associate Professor of Biology, Johns Hopkins University',
+ 'filled': False,
+ 'id': 'nq-EK3QAAAAJ',
+ 'name': 'John K. Kim'}, {'affiliation': 'Stanford Medical School',
+ 'filled': False,
+ 'id': 'FyWf5ioAAAAJ',
+ 'name': 'Zhifen Yang'}, {'affiliation': 'Harvard Medical School',
+ 'filled': False,
+ 'id': 'Fx-7_SYAAAAJ',
+ 'name': 'Jiefei Geng'}, {'affiliation': 'University of Texas Southwestern Medical Center',
+ 'filled': False,
+ 'id': 'jGYFnSkAAAAJ',
+ 'name': 'Beth Levine'}, {'affiliation': '',
+ 'filled': False,
+ 'id': 'jQ4GPGEAAAAJ',
+ 'name': 'Takahiro Shintani'}, {'affiliation': 'Assistant professor at Northwestern University',
+ 'filled': False,
+ 'id': 'cau1NIYAAAAJ',
+ 'name': 'Congcong He'}, {'affiliation': 'Damon Runyon Postdoctoral Fellow, Massachusetts General '
+                'Hospital',
+ 'filled': False,
+ 'id': 'HP6kyFoAAAAJ',
+ 'name': 'Kai Mao'}]",@umich.edu,129.0,85.0,353.0,297.0,['Autophagy'],https://scholar.google.com/citations?view_op=medium_photo&user=pGGjfS8AAAAJ,True,0nsky,1,
+4,"Professor of Economics, Booth School of Business, University of Chicago",zGJKZpkAAAAJ,Marianne Bertrand,44683,,,,@chicagobooth.edu,,,,,['Marianne Bertrand'],https://scholar.google.com/citations?view_op=medium_photo&user=zGJKZpkAAAAJ,False,0rand,1,
+5,"Scientist, MRC Laboratory of Molecular Biology",Dg6IGLQAAAAJ,richard henderson,26808,5918.0,"{1981: 301, 1982: 371, 1983: 317, 1984: 339, 1985: 282, 1986: 332, 1987: 297, 1988: 311, 1989: 282, 1990: 374, 1991: 472, 1992: 537, 1993: 503, 1994: 543, 1995: 871, 1996: 695, 1997: 755, 1998: 763, 1999: 764, 2000: 781, 2001: 590, 2002: 600, 2003: 486, 2004: 511, 2005: 535, 2006: 603, 2007: 651, 2008: 576, 2009: 704, 2010: 901, 2011: 861, 2012: 898, 2013: 931, 2014: 933, 2015: 983, 2016: 906, 2017: 1001, 2018: 1250, 2019: 1065, 2020: 711}",[],@mrc-lmb.cam.ac.uk,62.0,33.0,129.0,65.0,['structural biology'],https://scholar.google.com/citations?view_op=medium_photo&user=Dg6IGLQAAAAJ,True,0rson,0,chemistry
+6,Harvard University,ddq2_gkAAAAJ,Cass Sunstein,133614,52414.0,"{1987: 327, 1988: 347, 1989: 441, 1990: 564, 1991: 676, 1992: 824, 1993: 837, 1994: 961, 1995: 1056, 1996: 1249, 1997: 1222, 1998: 1385, 1999: 1463, 2000: 1912, 2001: 2037, 2002: 2188, 2003: 2592, 2004: 2917, 2005: 3209, 2006: 3870, 2007: 4026, 2008: 4457, 2009: 5151, 2010: 5598, 2011: 6089, 2012: 6500, 2013: 6924, 2014: 7329, 2015: 7590, 2016: 8547, 2017: 9133, 2018: 10245, 2019: 11040, 2020: 5641}","[{'affiliation': 'Professor of Management, UC-San Diego',
+ 'filled': False,
+ 'id': 'aObXJ10AAAAJ',
+ 'name': 'David Schkade'}, {'affiliation': 'Copenhagen Business School',
+ 'filled': False,
+ 'id': 'CLExvBcAAAAJ',
+ 'name': 'Lucia Reisch'}, {'affiliation': 'Princeton University (Emeritus)',
+ 'filled': False,
+ 'id': 'ImhakoAAAAAJ',
+ 'name': 'Daniel Kahneman'}, {'affiliation': 'University of Chicago Law School',
+ 'filled': False,
+ 'id': 'gVsMnssAAAAJ',
+ 'name': 'Eric Posner'}, {'affiliation': 'Roy L. Furman Professor of Law and Leadership, Harvard '
+                'University.',
+ 'filled': False,
+ 'id': 'LxG5YWcAAAAJ',
+ 'name': 'Lawrence Lessig'}, {'affiliation': 'University of Oxford and Georgetown University',
+ 'filled': False,
+ 'id': '4GqktoIAAAAJ',
+ 'name': 'Robert Hahn'}, {'affiliation': 'Professor, UCLA Anderson School of Management',
+ 'filled': False,
+ 'id': 'wiAHVicAAAAJ',
+ 'name': 'shlomo benartzi'}, {'affiliation': 'Professor of Economics and Political Science and Gorter '
+                'Family Professor of Islamic Studies, Duke University',
+ 'filled': False,
+ 'id': 'zgPXIvMAAAAJ',
+ 'name': 'Timur Kuran'}, {'affiliation': 'The University of Chicago Law School',
+ 'filled': False,
+ 'id': 'HtnVd9oAAAAJ',
+ 'name': 'David Weisbach'}, {'affiliation': 'Harvard University',
+ 'filled': False,
+ 'id': 'Xs19o54AAAAJ',
+ 'name': 'Edward Glaeser'}]",@law.harvard.edu,160.0,98.0,609.0,418.0,"['Administrative law', 'behavioral economics']",https://scholar.google.com/citations?view_op=medium_photo&user=ddq2_gkAAAAJ,True,0tein,1,
+7,Boston University,XfuACYoAAAAJ,andrew f newman,6167,1940.0,"{1994: 18, 1995: 28, 1996: 49, 1997: 50, 1998: 57, 1999: 107, 2000: 126, 2001: 132, 2002: 145, 2003: 191, 2004: 199, 2005: 222, 2006: 254, 2007: 316, 2008: 291, 2009: 288, 2010: 331, 2011: 295, 2012: 316, 2013: 339, 2014: 350, 2015: 343, 2016: 372, 2017: 375, 2018: 327, 2019: 337, 2020: 185}","[{'affiliation': 'European Center for Advanced Research in Economics and '
+                'Statistics (ECARES), Université Libre de',
+ 'filled': False,
+ 'id': 'mxkeN5YAAAAJ',
+ 'name': 'Paola Conconi'}, {'affiliation': 'University of Mannheim and CEPR',
+ 'filled': False,
+ 'id': 'CLJb1aoAAAAJ',
+ 'name': 'Harald Fadinger'}, {'affiliation': 'Economics, MIT',
+ 'filled': False,
+ 'id': 'l9Or8EMAAAAJ',
+ 'name': 'Daron Acemoglu'}, {'affiliation': 'Associate Professor in Economics, Sao Paulo School of '
+                'Economics - FGV',
+ 'filled': False,
+ 'id': 'j9rhpUcAAAAJ',
+ 'name': 'Fernanda Estevan'}, {'affiliation': 'Professor of Economics, PSE and UCL',
+ 'filled': False,
+ 'id': 'T2D3KIIAAAAJ',
+ 'name': 'Philippe Jehiel'}, {'affiliation': 'University of Washington',
+ 'filled': False,
+ 'id': '5lF-YiMAAAAJ',
+ 'name': 'Philip Bond'}, {'affiliation': 'Professor of Economics, Dartmouth College',
+ 'filled': False,
+ 'id': 'fTWwTJ0AAAAJ',
+ 'name': 'Claudia Olivetti'}]",@bu.edu,20.0,15.0,27.0,17.0,[],https://scholar.google.com/citations?view_op=medium_photo&user=XfuACYoAAAAJ,True,0wman,1,
+8,"Chair of Additive Manufacturing, Full Professor, Univ. of Southampton;KU Leuven; QMUL; NTU; THU",Jmkx86MAAAAJ,Shoufeng Yang (杨守峰),7997,4828.0,"{2003: 54, 2004: 115, 2005: 124, 2006: 171, 2007: 167, 2008: 258, 2009: 261, 2010: 315, 2011: 348, 2012: 398, 2013: 398, 2014: 500, 2015: 534, 2016: 643, 2017: 813, 2018: 938, 2019: 1078, 2020: 814}","[{'affiliation': 'University of Southampton',
+ 'filled': False,
+ 'id': 'P-ceXn0AAAAJ',
+ 'name': 'Mohammad Vaezi'}, {'affiliation': 'Heriot-Watt University',
+ 'filled': False,
+ 'id': 'lty5z6UAAAAJ',
+ 'name': 'Xuesong Lu'}, {'affiliation': 'Singapore University of Technology and Design',
+ 'filled': False,
+ 'id': 'rrf1x0gAAAAJ',
+ 'name': 'Chee Kai Chua'}, {'affiliation': 'Professor of Antennas and Electromagnetics, Queen Mary '
+                'University of London',
+ 'filled': False,
+ 'id': 'W6hvCOAAAAAJ',
+ 'name': 'Yang Hao'}, {'affiliation': 'Professor of Antenna Engineering, Queen Mary University of '
+                'London',
+ 'filled': False,
+ 'id': 'ni5SynYAAAAJ',
+ 'name': 'Clive Parini'}, {'affiliation': 'Associate Professor in Ningbo Institute of Materials '
+                'Technology & Engineering, CAS',
+ 'filled': False,
+ 'id': 'iP8WCUMAAAAJ',
+ 'name': 'Yiming zhang'}, {'affiliation': 'Boise State University',
+ 'filled': False,
+ 'id': 'N-gbtj4AAAAJ',
+ 'name': 'Rick Ubic'}, {'affiliation': 'Universitry of Aveiro',
+ 'filled': False,
+ 'id': 'ciOZ30UAAAAJ',
+ 'name': 'Robert C Pullar'}, {'affiliation': 'Nanyang Technological University',
+ 'filled': False,
+ 'id': 'HgANRQUAAAAJ',
+ 'name': 'Yong Liu'}, {'affiliation': 'Chair of Microfluidics, University of Rostock',
+ 'filled': False,
+ 'id': 'b13gusAAAAAJ',
+ 'name': 'Hermann Seitz'}, {'affiliation': 'Professor of Musculoskeletal Science',
+ 'filled': False,
+ 'id': '0zW7pccAAAAJ',
+ 'name': 'Richard Oreffo'}, {'affiliation': 'Imperial College London',
+ 'filled': False,
+ 'id': 'M9V8F3MAAAAJ',
+ 'name': 'alford n*'}, {'affiliation': 'Materials Research Group, University of Southampton',
+ 'filled': False,
+ 'id': 'vZ1vRakAAAAJ',
+ 'name': 'Shahir Mohd Yusuf'}, {'affiliation': 'University of Southampton',
+ 'filled': False,
+ 'id': '13GdvccAAAAJ',
+ 'name': 'Dr Nong Gao'}, {'affiliation': 'Research Scientist, Imperial College',
+ 'filled': False,
+ 'id': 'eynQPBQAAAAJ',
+ 'name': 'Sarah Fearn'}, {'affiliation': 'Nanyang Technological University',
+ 'filled': False,
+ 'id': '3Akl_AcAAAAJ',
+ 'name': 'Swee Leong Sing'}, {'affiliation': 'Professor of Biomaterials Science, University College London',
+ 'filled': False,
+ 'id': 'MWIu8b4AAAAJ',
+ 'name': 'Jonathan C Knowles'}, {'affiliation': 'ucl',
+ 'filled': False,
+ 'id': 'dKuEfFoAAAAJ',
+ 'name': 'Jawwad Darr'}, {'affiliation': 'University of Southampton',
+ 'filled': False,
+ 'id': '-r8qS0UAAAAJ',
+ 'name': 'Richard P Boardman'}, {'affiliation': 'Assistant Professor, ECE Department, University of '
+                'Nebraska-Lincoln',
+ 'filled': False,
+ 'id': 'xnk1zhgAAAAJ',
+ 'name': 'Christos Argyropoulos'}]",@soton.ac.uk,37.0,27.0,79.0,63.0,"['Additive Manufacturing', 'Rapid Prototyping', 'Multi-Materials Additive Manufacturing', '3D printing', 'Advanced manufacturing']",https://scholar.google.com/citations?view_op=medium_photo&user=Jmkx86MAAAAJ,True,0Yang,1,
+9,"Economics, MIT",yhDMl8AAAAAJ,Esther Duflo,64675,37591.0,"{2003: 315, 2004: 438, 2005: 687, 2006: 840, 2007: 1183, 2008: 1528, 2009: 1824, 2010: 2483, 2011: 2950, 2012: 3691, 2013: 4415, 2014: 5144, 2015: 5453, 2016: 6151, 2017: 6764, 2018: 7153, 2019: 7587, 2020: 4296}","[{'affiliation': 'Professor of Economics, UC Berkeley',
+ 'filled': False,
+ 'id': 'qZpr_CQAAAAJ',
+ 'name': 'Emmanuel Saez'}]",@mit.edu,87.0,74.0,186.0,160.0,['Economics'],https://scholar.google.com/citations?view_op=medium_photo&user=yhDMl8AAAAAJ,True,10uflo,0,economics
+10,"Director of X-ray Crystallographic Center, Department of Chemistry and Biochemistry",uvCHHkgAAAAJ,Peter Zavalij,18709,7368.0,"{1996: 109, 1997: 141, 1998: 158, 1999: 227, 2000: 165, 2001: 215, 2002: 225, 2003: 296, 2004: 401, 2005: 453, 2006: 490, 2007: 633, 2008: 743, 2009: 826, 2010: 903, 2011: 1200, 2012: 1242, 2013: 1280, 2014: 1389, 2015: 1415, 2016: 1386, 2017: 1287, 2018: 1252, 2019: 1274, 2020: 750}","[{'affiliation': 'Distinguished Professor of Chemistry and Materials',
+ 'filled': False,
+ 'id': 'df-6g6kAAAAJ',
+ 'name': 'Stanley Whittingham'}, {'affiliation': 'Professor of Materials Science, Ames Laboratory and Iowa '
+                'State University',
+ 'filled': False,
+ 'id': '1qlws5QAAAAJ',
+ 'name': 'Vitalij Pecharsky'}, {'affiliation': 'Univ. Texas at San Antonio, Univ. Maryland, Univ. Arizona, '
+                'Trinity Univ., Hope College, Univ. of',
+ 'filled': False,
+ 'id': '-_j0SUIAAAAJ',
+ 'name': 'Michael P. Doyle'}, {'affiliation': 'Professor of Chemistry, University of Maryland',
+ 'filled': False,
+ 'id': 'nEG2KEUAAAAJ',
+ 'name': 'Andrei N. Vedernikov'}, {'affiliation': 'Professor and Director, Quantum Materials Center, University '
+                'of Maryland',
+ 'filled': False,
+ 'id': 'Iz5refIAAAAJ',
+ 'name': 'Johnpierre Paglione'}, {'affiliation': 'Professor of Chemistry, University of California, Santa Cruz',
+ 'filled': False,
+ 'id': '598d4QgAAAAJ',
+ 'name': 'Scott Oliver'}, {'affiliation': 'University of Kent',
+ 'filled': False,
+ 'id': 'zKgdVrUAAAAJ',
+ 'name': 'Mark A. Green'}, {'affiliation': 'Associate Professor, University of Maryland',
+ 'filled': False,
+ 'id': 'pTsCC4kAAAAJ',
+ 'name': 'Efrain E. Rodriguez'}, {'affiliation': 'Professor of Chemistry and Biochemistry, University of '
+                'Maryland',
+ 'filled': False,
+ 'id': 'EITGf_MAAAAJ',
+ 'name': 'Jeffery T. Davis'}, {'affiliation': 'Professor, Department of Inorganic Chemistry, Ivan Franko '
+                'National University of Lviv, 79005 Lviv, Ukraine',
+ 'filled': False,
+ 'id': 'uxZUcEEAAAAJ',
+ 'name': 'Marian Mys`kiv'}, {'affiliation': 'University of Maryland - College Park',
+ 'filled': False,
+ 'id': 'DJpM6t4AAAAJ',
+ 'name': 'Karen Gaskell'}, {'affiliation': 'Prof.',
+ 'filled': False,
+ 'id': 'y0TYTCUAAAAJ',
+ 'name': 'Ihor Zavaliy'}, {'affiliation': 'Argonne National Lab',
+ 'filled': False,
+ 'id': 'WSCFTjEAAAAJ',
+ 'name': 'Brian Toby'}, {'affiliation': 'Professor of Chemistry Syracuse University',
+ 'filled': False,
+ 'id': '3bnT4MYAAAAJ',
+ 'name': 'Jon Zubieta'}, {'affiliation': 'University of Maryland',
+ 'filled': False,
+ 'id': 'nMBdLFAAAAAJ',
+ 'name': 'Robert M. Briber'}]",@umd.edu,66.0,41.0,252.0,162.0,"['Solid State Chemistry', 'Crystal Structure Determination', 'Powder Diffraction', 'XRD analysis', 'Battery Materials']",https://scholar.google.com/citations?view_op=medium_photo&user=uvCHHkgAAAAJ,True,1alij,1,
+11,FZU – Institute of Physics of the Czech Academy of Sciences,O1ei02sAAAAJ,Sergei V. Bulanov,26666,8425.0,"{1994: 67, 1995: 103, 1996: 128, 1997: 184, 1998: 245, 1999: 237, 2000: 349, 2001: 570, 2002: 687, 2003: 516, 2004: 750, 2005: 805, 2006: 1117, 2007: 1080, 2008: 1243, 2009: 1761, 2010: 1549, 2011: 1474, 2012: 1558, 2013: 1705, 2014: 1525, 2015: 1419, 2016: 1777, 2017: 1354, 2018: 1409, 2019: 1603, 2020: 848}","[{'affiliation': 'Senior principal researcher, National Institutes for Quantum '
+                'and Radiological Science and Technology',
+ 'filled': False,
+ 'id': 'j2O89GkAAAAJ',
+ 'name': 'Timur Esirkepov'}, {'affiliation': 'Kansai Photon Science Institute, QST',
+ 'filled': False,
+ 'id': 'ntNc8ygAAAAJ',
+ 'name': 'Alexander S. Pirozhkov'}, {'affiliation': 'Grad School for Creation of New Photonics Industries',
+ 'filled': False,
+ 'id': 'gvlSvegAAAAJ',
+ 'name': 'Yoshiaki Kato'}, {'affiliation': 'ELI, Institute of Physics, Academy of Sciences, Czech '
+                'Republic',
+ 'filled': False,
+ 'id': 'hN5jVGwAAAAJ',
+ 'name': 'Georg Korn'}, {'affiliation': 'Professor in Physics, University of Pisa',
+ 'filled': False,
+ 'id': 'cKyMYFwAAAAJ',
+ 'name': 'Francesco Califano'}, {'affiliation': ""The Queen's University of Belfast"",
+ 'filled': False,
+ 'id': 'zFnyq3AAAAAJ',
+ 'name': 'Marco Borghesi'}, {'affiliation': 'Leading scientist, Keldysh Institute of Applied Mathematics',
+ 'filled': False,
+ 'id': 'zLbi3u4AAAAJ',
+ 'name': 'Pavel Sasorov'}, {'affiliation': 'Institute für Physik-Universität Rostock/ICM MG SD '
+                'RAS-Novosibirsk',
+ 'filled': False,
+ 'id': 'aAijgnQAAAAJ',
+ 'name': 'Tatyana Liseykina'}, {'affiliation': 'Ecole Polytechnique',
+ 'filled': False,
+ 'id': 'spudk8gAAAAJ',
+ 'name': 'Gérard Mourou'}, {'affiliation': 'Osaka University',
+ 'filled': False,
+ 'id': 'Mgw4ddMAAAAJ',
+ 'name': 'Alexei Zhidkov'}, {'affiliation': '',
+ 'filled': False,
+ 'id': '8fAKlBoAAAAJ',
+ 'name': 'Nadezhda Bobrova'}, {'affiliation': 'MSU CMC',
+ 'filled': False,
+ 'id': 'CXT0fbkAAAAJ',
+ 'name': 'Evgenia Echkina'}, {'affiliation': 'Research Scientist, Lawrence Berkeley National Laboratory',
+ 'filled': False,
+ 'id': 'tcmFLWEAAAAJ',
+ 'name': 'Stepan Bulanov'}, {'affiliation': 'QST',
+ 'filled': False,
+ 'id': 'V8RO8ZwAAAAJ',
+ 'name': 'Masataka Kado'}, {'affiliation': 'DESY -- Hamburg, Germany',
+ 'filled': False,
+ 'id': '_aSYAMEAAAAJ',
+ 'name': 'Wim Leemans'}, {'affiliation': 'LLNL',
+ 'filled': False,
+ 'id': 'upKHVRYAAAAJ',
+ 'name': 'Andrew Mackinnon'}, {'affiliation': 'Univ. Strathclyde & SJTU',
+ 'filled': False,
+ 'id': 'GBjZ0pYAAAAJ',
+ 'name': 'Zheng-Ming Sheng'}, {'affiliation': 'Helmholtz-Zentrum Dresden-Rossendorf (Director, Inst Rad '
+                'Phys);  Professor of Physics, TU Dresden',
+ 'filled': False,
+ 'id': 'd-GqKlEAAAAJ',
+ 'name': 'Thomas E Cowan'}, {'affiliation': 'Principal researcher, Dukhov Research Institute of '
+                'Automatics, Moscow, Russia',
+ 'filled': False,
+ 'id': 'sdhG860AAAAJ',
+ 'name': 'Vasily Zhakhovsky'}, {'affiliation': 'CNR/INO, University of Pisa',
+ 'filled': False,
+ 'id': 'P5RtCW4AAAAJ',
+ 'name': 'Andrea Macchi'}]",@eli-beams.eu,74.0,42.0,291.0,158.0,['Physics'],https://scholar.google.com/citations?view_op=medium_photo&user=O1ei02sAAAAJ,True,1anov,1,
+12,Universidade Federal do Rio de Janeiro (UFRJ) ; D'Or Institute for Research and Education (IDOR),pkpL0JQAAAAJ,Patricia Bado,371,295.0,"{2011: 4, 2012: 13, 2013: 21, 2014: 33, 2015: 36, 2016: 48, 2017: 47, 2018: 55, 2019: 55, 2020: 53}","[{'affiliation': ""D'Or Institute for Research and Education (IDOR), Rio de ""
+                'Janeiro, Brazil & Stanford University',
+ 'filled': False,
+ 'id': 'Sl4KAXcAAAAJ',
+ 'name': 'Jorge Moll'}, {'affiliation': ""D'Or Institute for Research & Education (IDOR)"",
+ 'filled': False,
+ 'id': '2cGVmTAAAAAJ',
+ 'name': 'Ricardo de Oliveira Souza'}, {'affiliation': 'Universidade Federal do ABC, Brazil',
+ 'filled': False,
+ 'id': 'tTYtwesAAAAJ',
+ 'name': 'João Ricardo Sato'}, {'affiliation': ""King's College London"",
+ 'filled': False,
+ 'id': 'Uu1Ld7MAAAAJ',
+ 'name': 'Roland Zahn'}, {'affiliation': ""MD, PhD, D'Or Institute for Research and Education (IDOR) and ""
+                'Federal University of Rio de Janeiro',
+ 'filled': False,
+ 'id': 'G9fK3lkAAAAJ',
+ 'name': 'Fernanda Tovar Moll'}, {'affiliation': 'Federal University of Rio de Janeiro',
+ 'filled': False,
+ 'id': 'tbQOcgsAAAAJ',
+ 'name': 'Rogerio Panizzutti'}]",@idor.org,9.0,9.0,9.0,9.0,['neuroscience - fMRI - brain - behavior - motivation'],https://scholar.google.com/citations?view_op=medium_photo&user=pkpL0JQAAAAJ,True,1Bado,1,
+13,mit,Vq3KWOsAAAAJ,Rachel Glennerster,10180,6853.0,"{2005: 54, 2006: 59, 2007: 85, 2008: 146, 2009: 179, 2010: 303, 2011: 365, 2012: 486, 2013: 624, 2014: 810, 2015: 855, 2016: 1078, 2017: 1226, 2018: 1337, 2019: 1405, 2020: 852}",[],@mit.edu,30.0,25.0,51.0,44.0,"['economics', 'development economics', 'randomized evaluations']",https://scholar.google.com/citations?view_op=medium_photo&user=Vq3KWOsAAAAJ,True,1ster,1,
+14,University of Chicago,oExfyEkAAAAJ,Sendhil Mullainathan,49491,29428.0,"{2002: 156, 2003: 332, 2004: 502, 2005: 655, 2006: 845, 2007: 1044, 2008: 1354, 2009: 1566, 2010: 1836, 2011: 2186, 2012: 2427, 2013: 2805, 2014: 3437, 2015: 3857, 2016: 4324, 2017: 5041, 2018: 5609, 2019: 6754, 2020: 3772}",[],@chicagobooth.edu,72.0,64.0,130.0,117.0,"['Machine learning', 'computational medicine', 'behavioral science', 'poverty', 'economics']",https://scholar.google.com/citations?view_op=medium_photo&user=oExfyEkAAAAJ,True,1than,1,
+15,Ecole Polytechnique,spudk8gAAAAJ,Gérard Mourou,48460,12059.0,"{1983: 164, 1984: 139, 1985: 155, 1986: 208, 1987: 176, 1988: 328, 1989: 410, 1990: 491, 1991: 498, 1992: 617, 1993: 661, 1994: 692, 1995: 781, 1996: 925, 1997: 883, 1998: 902, 1999: 967, 2000: 1084, 2001: 1293, 2002: 1271, 2003: 1286, 2004: 1663, 2005: 1826, 2006: 1956, 2007: 1850, 2008: 1820, 2009: 1979, 2010: 2010, 2011: 1816, 2012: 2032, 2013: 2302, 2014: 2330, 2015: 2275, 2016: 2358, 2017: 2120, 2018: 1955, 2019: 2267, 2020: 1075}",[],@polytechnique.edu,97.0,51.0,361.0,151.0,['laser'],https://scholar.google.com/citations?view_op=medium_photo&user=spudk8gAAAAJ,True,1urou,0,physics
+16,Ohio State University,m7pBX58AAAAJ,Guo-Liang Wang,19203,7297.0,"{1996: 118, 1997: 173, 1998: 241, 1999: 332, 2000: 322, 2001: 373, 2002: 385, 2003: 418, 2004: 538, 2005: 441, 2006: 609, 2007: 726, 2008: 806, 2009: 874, 2010: 869, 2011: 993, 2012: 1078, 2013: 1232, 2014: 1207, 2015: 1296, 2016: 1431, 2017: 1226, 2018: 1249, 2019: 1259, 2020: 833}",[],@osu.edu,65.0,49.0,156.0,122.0,"['Rice disease resistance', 'genomics']",https://scholar.google.com/citations?view_op=medium_photo&user=m7pBX58AAAAJ,True,1Wang,1,
+17,Prof.,b9Bod2MAAAAJ,Steven Chu,63265,25177.0,"{1989: 176, 1990: 184, 1991: 246, 1992: 339, 1993: 411, 1994: 591, 1995: 601, 1996: 655, 1997: 707, 1998: 778, 1999: 978, 2000: 1061, 2001: 1230, 2002: 1341, 2003: 1464, 2004: 1713, 2005: 1985, 2006: 2091, 2007: 2272, 2008: 2277, 2009: 2299, 2010: 2375, 2011: 2714, 2012: 2540, 2013: 2870, 2014: 3126, 2015: 3505, 2016: 3787, 2017: 4003, 2018: 4897, 2019: 5335, 2020: 3636}",[],@stanford.edu,114.0,70.0,230.0,175.0,[],https://scholar.google.com/citations?view_op=medium_photo&user=b9Bod2MAAAAJ,True,2 Chu,1,
+18,"Professor of Biological & Agricultural Engineering, University of Arkansas",DpHT2h0AAAAJ,Jun Zhu,21307,14232.0,"{1999: 65, 2000: 83, 2001: 129, 2002: 129, 2003: 166, 2004: 246, 2005: 256, 2006: 307, 2007: 399, 2008: 374, 2009: 426, 2010: 531, 2011: 681, 2012: 804, 2013: 1043, 2014: 1126, 2015: 1551, 2016: 2015, 2017: 2375, 2018: 2699, 2019: 3162, 2020: 2401}","[{'affiliation': 'University of Idaho',
+ 'filled': False,
+ 'id': 'V5lNC5cAAAAJ',
+ 'name': 'Sarah (Xiao) Wu'}, {'affiliation': 'Washington State University',
+ 'filled': False,
+ 'id': 'Qzi8Lt0AAAAJ',
+ 'name': 'Pius Ndegwa, Professor'}]",@uark.edu,61.0,49.0,448.0,301.0,"['animal waste management', 'renewable energy']",https://scholar.google.com/citations?view_op=medium_photo&user=DpHT2h0AAAAJ,True,2 Zhu,1,
+19,Unknown affiliation,1PutNVoAAAAJ,Bing-Hua Jiang,34786,11834.0,"{1997: 210, 1998: 337, 1999: 381, 2000: 536, 2001: 628, 2002: 807, 2003: 815, 2004: 1172, 2005: 1236, 2006: 1353, 2007: 1320, 2008: 1654, 2009: 1664, 2010: 1840, 2011: 1824, 2012: 2062, 2013: 2338, 2014: 2484, 2015: 2370, 2016: 2306, 2017: 2135, 2018: 1929, 2019: 1909, 2020: 1183}","[{'affiliation': 'Johns Hopkins University',
+ 'filled': False,
+ 'id': 'fX-_IToAAAAJ',
+ 'name': 'Gregg L. Semenza'}, {'affiliation': 'Nanjing Medical University',
+ 'filled': False,
+ 'id': 'GULsMk4AAAAJ',
+ 'name': 'Xu Qian'}, {'affiliation': 'Thomas Jefferson University',
+ 'filled': False,
+ 'id': '3bRwUDcAAAAJ',
+ 'name': 'Jun He'}, {'affiliation': 'FDA/OPQ/OBP',
+ 'filled': False,
+ 'id': 'tZFlfDkAAAAJ',
+ 'name': 'Qing Xu'}, {'affiliation': 'University of Kentucky',
+ 'filled': False,
+ 'id': 'dKVQfAEAAAAJ',
+ 'name': 'Zhuo Zhang'}, {'affiliation': 'Zhejiang University, MD Anderson Cancer Center',
+ 'filled': False,
+ 'id': '7lBK9LkAAAAJ',
+ 'name': 'Zhimin lu'}, {'affiliation': 'NIOSH',
+ 'filled': False,
+ 'id': '9Swq9UgAAAAJ',
+ 'name': 'Stephen S. Leonard'}, {'affiliation': 'Alderson-Broaddus College',
+ 'filled': False,
+ 'id': 'SHYZD-wAAAAJ',
+ 'name': 'Yi Charlie Chen'}, {'affiliation': 'University of Pennsylvania',
+ 'filled': False,
+ 'id': 'SoaTctwAAAAJ',
+ 'name': 'Xiaowen Hu'}, {'affiliation': 'Professor and Nancy Panoz Chair of Surgery for Cancer '
+                'Research, Emory University',
+ 'filled': False,
+ 'id': 'Ey5jgHAAAAAJ',
+ 'name': 'Lily Yang'}, {'affiliation': 'Salk Institute',
+ 'filled': False,
+ 'id': 'fcxriTYAAAAJ',
+ 'name': 'Tony Hunter'}, {'affiliation': 'NYU Medical School',
+ 'filled': False,
+ 'id': 'AMi1oqUAAAAJ',
+ 'name': 'Max Costa'}]",@uiowa.edu,78.0,55.0,162.0,139.0,"['Cancer Research', 'Carcinogenesis', 'Angiogenesis']",https://scholar.google.com/citations?view_op=medium_photo&user=1PutNVoAAAAJ,True,2iang,1,
+20,University of Waterloo,Cv9djkcAAAAJ,Donna Strickland,10045,2276.0,"{1988: 46, 1989: 42, 1990: 81, 1991: 118, 1992: 174, 1993: 220, 1994: 245, 1995: 271, 1996: 280, 1997: 282, 1998: 311, 1999: 287, 2000: 288, 2001: 318, 2002: 250, 2003: 264, 2004: 363, 2005: 384, 2006: 372, 2007: 392, 2008: 335, 2009: 327, 2010: 385, 2011: 318, 2012: 389, 2013: 429, 2014: 469, 2015: 388, 2016: 377, 2017: 386, 2018: 367, 2019: 538, 2020: 220}",[],@uwaterloo.ca,20.0,9.0,29.0,7.0,"['lasers', 'optics']",https://scholar.google.com/citations?view_op=medium_photo&user=Cv9djkcAAAAJ,True,2land,0,physics
+21,"Assistant professor of economics, Tufts University",Uiujt8gAAAAJ,Cynthia Kinnan,2959,1902.0,"{2009: 12, 2010: 90, 2011: 146, 2012: 182, 2013: 237, 2014: 316, 2015: 294, 2016: 352, 2017: 342, 2018: 350, 2019: 335, 2020: 225}","[{'affiliation': 'Professor of Economics',
+ 'filled': False,
+ 'id': 'HLpqZooAAAAJ',
+ 'name': 'Abhijit Banerjee'}, {'affiliation': 'Economics, MIT',
+ 'filled': False,
+ 'id': 'yhDMl8AAAAAJ',
+ 'name': 'Esther Duflo'}, {'affiliation': 'Assistant Professor of Economics, Stanford University',
+ 'filled': False,
+ 'id': 'iT7_PykAAAAJ',
+ 'name': 'Arun G. Chandrasekhar'}, {'affiliation': 'Harvard University',
+ 'filled': False,
+ 'id': 'MFBPZ_sAAAAJ',
+ 'name': 'Horacio Larreguy'}, {'affiliation': 'Harvard University',
+ 'filled': False,
+ 'id': 'qOGuWdcAAAAJ',
+ 'name': 'Emily Breza'}, {'affiliation': 'Business Economics and Public Policy, Wharton School, '
+                'University of Pennsylvania',
+ 'filled': False,
+ 'id': 'pHHmC-wAAAAJ',
+ 'name': 'Shing-Yi Wang'}, {'affiliation': 'University of Southern California',
+ 'filled': False,
+ 'id': 'abPyNxcAAAAJ',
+ 'name': 'Yongxiang Wang'}, {'affiliation': 'National Insitute for Drug Abuse (NIDA)',
+ 'filled': False,
+ 'id': '50Rli_YAAAAJ',
+ 'name': 'Minki Chatterji'}]",@tufts.edu,10.0,10.0,10.0,10.0,"['Development economics', 'insurance', 'financial access', 'randomized evaluation', 'social networks']",https://scholar.google.com/citations?view_op=medium_photo&user=Uiujt8gAAAAJ,True,2nnan,1,
+22,"University Professor, New York University",b5oj894AAAAJ,Paul Romer,90486,,,,@paulromer.net,,,,,"['Economic growth', 'economic development', 'science policy']",https://scholar.google.com/citations?view_op=medium_photo&user=b5oj894AAAAJ,False,2omer,0,economics
+23,"Professor of chemical engineering, Caltech",wil5NhcAAAAJ,Frances Arnold,53459,19001.0,"{1992: 172, 1993: 142, 1994: 191, 1995: 212, 1996: 271, 1997: 338, 1998: 435, 1999: 607, 2000: 816, 2001: 1247, 2002: 1257, 2003: 1299, 2004: 1674, 2005: 1684, 2006: 2204, 2007: 2173, 2008: 2322, 2009: 2330, 2010: 2653, 2011: 2748, 2012: 2916, 2013: 3075, 2014: 3016, 2015: 2972, 2016: 3174, 2017: 2971, 2018: 3479, 2019: 3896, 2020: 2482}","[{'affiliation': 'Fred Hutch Cancer Research Center; University of Washington; '
+                'Howard Hughes Medical Institute',
+ 'filled': False,
+ 'id': 'S12x_eQAAAAJ',
+ 'name': 'Jesse D. Bloom'}, {'affiliation': 'Steven L. Miller Chair of Chemical Engineering, University of '
+                'Illinois at Urbana-Champaign',
+ 'filled': False,
+ 'id': 'R8waAy0AAAAJ',
+ 'name': 'Huimin Zhao'}, {'affiliation': 'Associate Professor of Chemical and Biological Engineering, '
+                'Colorado State University',
+ 'filled': False,
+ 'id': 'pIFgR6oAAAAJ',
+ 'name': 'Christopher D. Snow'}, {'affiliation': '',
+ 'filled': False,
+ 'id': 'LzxFxvcAAAAJ',
+ 'name': 'Eric Brustad'}, {'affiliation': 'Biochemistry, University of Wisconsin-Madison',
+ 'filled': False,
+ 'id': 'qHcs9msAAAAJ',
+ 'name': 'Philip A. Romero'}, {'affiliation': 'Andrew S. Kende Professor of Chemistry, Department of '
+                'Chemistry, University of Rochester',
+ 'filled': False,
+ 'id': '-0TMmuYAAAAJ',
+ 'name': 'Rudi Fasan'}, {'affiliation': 'Graz University of Technology, MCI, bisy e.U., acib',
+ 'filled': False,
+ 'id': 'Scsm30oAAAAJ',
+ 'name': 'anton glieder'}, {'affiliation': 'Duke University',
+ 'filled': False,
+ 'id': '8bqK0ZwAAAAJ',
+ 'name': 'Lingchong You'}, {'affiliation': 'Assistant Professor, University of Wisconsin-Madison',
+ 'filled': False,
+ 'id': 'tectm2IAAAAJ',
+ 'name': 'Andrew Buller'}, {'affiliation': 'Ashland Chair in Chemical Engineering, Professor of '
+                'Pharmaceutical Sciences, University of Kentucky',
+ 'filled': False,
+ 'id': 'wajSQGcAAAAJ',
+ 'name': 'Daniel W Pack'}, {'affiliation': 'Indiana University',
+ 'filled': False,
+ 'id': 'LiMYijMAAAAJ',
+ 'name': 'Jared C. Lewis'}, {'affiliation': 'Associate Professor, Biochemistry and Molecular Biology, '
+                'Human Genetics',
+ 'filled': False,
+ 'id': '-YZ5mIIAAAAJ',
+ 'name': 'D. Allan Drummond'}, {'affiliation': 'Associate Professor of Chemical and Biological Engineering, '
+                'Rensselaer Polytechnic Institute',
+ 'filled': False,
+ 'id': 'jVo8TBEAAAAJ',
+ 'name': 'Cynthia Collins'}, {'affiliation': 'National Institute of Advanced Industrial Science and '
+                'Technology (AIST)',
+ 'filled': False,
+ 'id': 'yQJ5w7sAAAAJ',
+ 'name': 'Kentaro Miyazaki'}, {'affiliation': 'Professor, Department of Integrative Biology, The University '
+                'of Texas at Austin',
+ 'filled': False,
+ 'id': 'Nc8U6E4AAAAJ',
+ 'name': 'Claus Wilke'}, {'affiliation': 'Biosciences, Bioengineering, and Chemical & Biomolecular '
+                'Engineering, Rice University',
+ 'filled': False,
+ 'id': 'w3uEh7oAAAAJ',
+ 'name': 'Jonathan (Joff) Silberg'}, {'affiliation': 'Stanford University',
+ 'filled': False,
+ 'id': '5hiJ7YMAAAAJ',
+ 'name': 'Arvind Kannan'}, {'affiliation': 'Professor of Biological Engineering, Massachusetts Institute '
+                'of Technology',
+ 'filled': False,
+ 'id': 'RQ50vF4AAAAJ',
+ 'name': 'Christopher Voigt'}, {'affiliation': 'ETH Zürich',
+ 'filled': False,
+ 'id': 'Goo4OlwAAAAJ',
+ 'name': 'Jackson Cahn'}, {'affiliation': 'Associate Professor of Biology, Boston College',
+ 'filled': False,
+ 'id': 'Hf7WbasAAAAJ',
+ 'name': 'Michelle M Meyer'}]",@cheme.caltech.edu,123.0,72.0,379.0,280.0,"['biocatalysis', 'enzyme technology', 'protein engineering', 'synthetic biology', 'directed evolution']",https://scholar.google.com/citations?view_op=medium_photo&user=wil5NhcAAAAJ,True,3nold,0,chemistry
+24,Australian National University,oYfxmfYAAAAJ,Michael W. Young,2134,534.0,"{1981: 8, 1982: 11, 1983: 19, 1984: 24, 1985: 20, 1986: 16, 1987: 32, 1988: 25, 1989: 29, 1990: 33, 1991: 37, 1992: 23, 1993: 33, 1994: 35, 1995: 24, 1996: 22, 1997: 14, 1998: 33, 1999: 35, 2000: 36, 2001: 36, 2002: 53, 2003: 40, 2004: 54, 2005: 65, 2006: 50, 2007: 70, 2008: 72, 2009: 77, 2010: 77, 2011: 87, 2012: 90, 2013: 99, 2014: 91, 2015: 90, 2016: 108, 2017: 95, 2018: 103, 2019: 106, 2020: 32}",[],@anu.edu.au,22.0,11.0,35.0,14.0,"['Anthropology', 'Biography', 'Papua New Guinea', 'Melanesia', 'Malinowski']",https://scholar.google.com/citations?view_op=medium_photo&user=oYfxmfYAAAAJ,True,3oung,0,medicine
+25,Distinguished Professor of Chemistry and Materials,df-6g6kAAAAJ,Stanley Whittingham,32950,13861.0,"{1981: 242, 1982: 225, 1983: 221, 1984: 177, 1985: 188, 1986: 169, 1987: 185, 1988: 221, 1989: 205, 1990: 190, 1991: 166, 1992: 180, 1993: 211, 1994: 209, 1995: 193, 1996: 271, 1997: 280, 1998: 309, 1999: 347, 2000: 299, 2001: 309, 2002: 353, 2003: 392, 2004: 561, 2005: 522, 2006: 592, 2007: 730, 2008: 831, 2009: 889, 2010: 1044, 2011: 1393, 2012: 1578, 2013: 1964, 2014: 2200, 2015: 2451, 2016: 2500, 2017: 2340, 2018: 2320, 2019: 2455, 2020: 1788}","[{'affiliation': 'Director of X-ray Crystallographic Center, Department of '
+                'Chemistry and Biochemistry',
+ 'filled': False,
+ 'id': 'uvCHHkgAAAAJ',
+ 'name': 'Peter Zavalij'}, {'affiliation': 'Binghamton University',
+ 'filled': False,
+ 'id': '-I0AkP0AAAAJ',
+ 'name': 'Natasha A. Chernova'}, {'affiliation': '',
+ 'filled': False,
+ 'id': 'gnwD5NcAAAAJ',
+ 'name': 'Fredrick Omenya'}, {'affiliation': 'Pacific Northwest national laboratory/University of Arkansas',
+ 'filled': False,
+ 'id': 'PBTF0iQAAAAJ',
+ 'name': 'Jie Xiao'}, {'affiliation': 'State University of New York at Binghamton',
+ 'filled': False,
+ 'id': 'ZLXQ4R4AAAAJ',
+ 'name': 'Hui Zhou'}, {'affiliation': 'Cummins Technical Center',
+ 'filled': False,
+ 'id': 'SAEY9f0AAAAJ',
+ 'name': 'ruigang zhang'}, {'affiliation': 'Senior Battery Scientist, Lionano.',
+ 'filled': False,
+ 'id': 'ubsPyQwAAAAJ',
+ 'name': 'Yiqing Huang'}, {'affiliation': 'Nassau Community College',
+ 'filled': False,
+ 'id': 'M5UnOg8AAAAJ',
+ 'name': 'Qi Wang'}, {'affiliation': 'Assistant Professor, Department of Mechanical Engineering, '
+                'Virginia Tech',
+ 'filled': False,
+ 'id': '7GKausUAAAAJ',
+ 'name': 'Zheng Li'}, {'affiliation': 'Professor of Chemistry',
+ 'filled': False,
+ 'id': '_OzmD8wAAAAJ',
+ 'name': 'ARUNACHALAM RAMANAN'}]",@binghamton.edu,77.0,46.0,276.0,165.0,"['Energy', 'Materials']",https://scholar.google.com/citations?view_op=medium_photo&user=df-6g6kAAAAJ,True,4gham,0,chemistry
+26,Columbia University,a7LHl00AAAAJ,Joachim Frank,46822,12385.0,"{1981: 128, 1982: 167, 1983: 108, 1984: 170, 1985: 136, 1986: 302, 1987: 188, 1988: 334, 1989: 292, 1990: 307, 1991: 255, 1992: 436, 1993: 284, 1994: 356, 1995: 379, 1996: 450, 1997: 618, 1998: 635, 1999: 692, 2000: 965, 2001: 1067, 2002: 1010, 2003: 1119, 2004: 1456, 2005: 1620, 2006: 2154, 2007: 2330, 2008: 2005, 2009: 2212, 2010: 2298, 2011: 2293, 2012: 2533, 2013: 2142, 2014: 2092, 2015: 2250, 2016: 2188, 2017: 2181, 2018: 2317, 2019: 2134, 2020: 1306}","[{'affiliation': 'Research Specialist Columbia/HHMI',
+ 'filled': False,
+ 'id': '8z47fKUAAAAJ',
+ 'name': 'Robert A Grassucci'}, {'affiliation': 'Wadsworth Center, Albany, NY',
+ 'filled': False,
+ 'id': 'kD7HKv4AAAAJ',
+ 'name': 'Rajendra K Agrawal'}, {'affiliation': 'Cell and Molecular Biology',
+ 'filled': False,
+ 'id': 'Xn8VRAoAAAAJ',
+ 'name': 'Måns Ehrenberg'}, {'affiliation': 'Wadsworth Center, NYDOH, Albany, NY',
+ 'filled': False,
+ 'id': 'KSTlqqsAAAAJ',
+ 'name': 'Carmen Mannella'}, {'affiliation': 'Group Leader, Inserm, Université de Bordeaux',
+ 'filled': False,
+ 'id': 'we0CHwUAAAAJ',
+ 'name': 'yaser hashem'}, {'affiliation': 'CUNY ASRC - City College of New York',
+ 'filled': False,
+ 'id': '6EGqqdMAAAAJ',
+ 'name': 'Amédée des Georges'}, {'affiliation': 'Professor of Protein Biochemistry, Aarhus University',
+ 'filled': False,
+ 'id': 'f21i0GUAAAAJ',
+ 'name': 'Poul Nissen'}, {'affiliation': 'Professor, Spanish National Center for Biotechnology, '
+                'CNB-CSIC',
+ 'filled': False,
+ 'id': 'LLxX6bUAAAAJ',
+ 'name': 'Jose Maria Carazo'}]",@cumc.columbia.edu,111.0,57.0,398.0,218.0,"['Protein biosynthesis', 'methods of cryo-EM']",https://scholar.google.com/citations?view_op=medium_photo&user=a7LHl00AAAAJ,True,4rank,0,chemistry
+27,MRC,QQOy6PIAAAAJ,Greg Winter,51800,9451.0,"{1982: 132, 1983: 242, 1984: 202, 1985: 284, 1986: 358, 1987: 487, 1988: 413, 1989: 478, 1990: 534, 1991: 706, 1992: 896, 1993: 1135, 1994: 1271, 1995: 1586, 1996: 1453, 1997: 1495, 1998: 1934, 1999: 1733, 2000: 1805, 2001: 1846, 2002: 1878, 2003: 1636, 2004: 1795, 2005: 1670, 2006: 1464, 2007: 1426, 2008: 1609, 2009: 1963, 2010: 1870, 2011: 1756, 2012: 1901, 2013: 1794, 2014: 2005, 2015: 1982, 2016: 1687, 2017: 1603, 2018: 1671, 2019: 1617, 2020: 891}",[],@mrc-lmb.cam.ac.uk,99.0,42.0,190.0,105.0,[],https://scholar.google.com/citations?view_op=medium_photo&user=QQOy6PIAAAAJ,True,5nter,0,chemistry
+28,Unknown affiliation,Vq6NVkAAAAAJ,James Allison,79871,39009.0,"{1984: 200, 1985: 216, 1986: 226, 1987: 221, 1988: 395, 1989: 447, 1990: 462, 1991: 488, 1992: 406, 1993: 567, 1994: 615, 1995: 678, 1996: 731, 1997: 700, 1998: 1036, 1999: 1061, 2000: 1009, 2001: 1107, 2002: 1167, 2003: 1251, 2004: 1471, 2005: 1715, 2006: 1977, 2007: 2088, 2008: 2137, 2009: 1993, 2010: 2246, 2011: 2399, 2012: 2943, 2013: 3911, 2014: 3716, 2015: 5138, 2016: 5821, 2017: 6271, 2018: 7488, 2019: 8338, 2020: 5851}",[],,134.0,92.0,335.0,238.0,"['Immunology', 'Immunotherapy']",https://scholar.google.com/citations?view_op=medium_photo&user=Vq6NVkAAAAAJ,True,6ison,0,medicine
+29,Johns Hopkins University,fX-_IToAAAAJ,Gregg L. Semenza,150041,55658.0,"{1997: 560, 1998: 738, 1999: 892, 2000: 1404, 2001: 2084, 2002: 2850, 2003: 3412, 2004: 4875, 2005: 5209, 2006: 5871, 2007: 6189, 2008: 6747, 2009: 7277, 2010: 7681, 2011: 7921, 2012: 8668, 2013: 9711, 2014: 10506, 2015: 10326, 2016: 10526, 2017: 10048, 2018: 9412, 2019: 9470, 2020: 5860}",[],@jhmi.edu,175.0,117.0,392.0,350.0,"['Cancer', 'Cardiovascular disease', 'Ischemic Retinopathy', 'Metabolism', 'Oxygen biology']",https://scholar.google.com/citations?view_op=medium_photo&user=fX-_IToAAAAJ,True,8enza,0,medicine
+30,Professor of Economics,HLpqZooAAAAJ,Abhijit Banerjee,56174,26712.0,"{1997: 149, 1998: 202, 1999: 330, 2000: 398, 2001: 452, 2002: 577, 2003: 788, 2004: 1038, 2005: 1141, 2006: 1359, 2007: 1605, 2008: 1885, 2009: 2012, 2010: 2365, 2011: 2764, 2012: 3218, 2013: 3632, 2014: 4036, 2015: 4179, 2016: 4631, 2017: 4975, 2018: 4879, 2019: 5167, 2020: 2736}",[],@MIT.EDU,88.0,71.0,210.0,175.0,['economics'],https://scholar.google.com/citations?view_op=medium_photo&user=HLpqZooAAAAJ,True,9rjee,0,economics
