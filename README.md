@@ -1,16 +1,20 @@
-This respository contains Python Jupyter notebooks, .CSV files and plots from search results of Google Scholar and past winners of Nobel Prizes.
+## Project Description
 
-* presentation.pdf is PowerPoint slides for a business audience explaining the findings of this project
+This respository contains Python Jupyter notebooks, .CSV files and plots from search results of Google Scholar using past winners of Nobel Prizes as a starting point.  With the names of winners in science fields (Economics, Physics, Chemistry, Medicine) from 2017-2019 that had Author pages on Google Scholar (15 names gave results), the obtain.ipynb Notebook got detailed information for each, using a modified version of `<scholarly>` (original package available through `<pip install scholarly>` or at https://pypi.org/project/scholarly/).  With the information from the Author page, it then retrieved further details about each of the first five publications listed.  From those, it found the first three (at most) authors that were not recent Nobel Prize winners that were listed as an author of those publications.  It then searched for detailed author information and the first five publications listed on their Author pages. This resulted in information for 16 non-Nobel Prize winners that had written a publication with a Nobel Prize winner (one degree away).  The abstracts from publications for both groups of authors were tokenized, lemmatized and analyzed with TF-IDF (term frequency - inverse document frequency). These values were reduced with t-SNE to two dimensions and plotted with three different color codes to make any patterns more noticeable (see the images folder).  No patterns were particularly stark, although the clearest distinction was between the abstracts attached to Prize winners and those of their first-degree co-authors.  This was borne out with a t-test for significance across each abstract's average TF-IDF value and a `<keras Sequential>` model gave a 43% accuracy when modeling with that feature (called `<coauthor>`) as the target.
+
+### Informational files
+
+* presentation.pdf is a PDF of PowerPoint slides for a business audience explaining the findings of this project
 
 * this README.md file gives an overview of the contents of this repository
 
 * LICENSE.md contains the license information for this repository
 
-#### Two notebooks:
+#### Two notebooks
 
 * obtain.ipynb is python code in Jupyter using BeautifulSoup and a modified version of `<scholarly>` to search for Nobel Prize winner publications, co-authors and their publications with Google Scholar. It further uses `<scholarly>` and `<BeautifulSoup>` to parse the results and saves each author and publication as its own .CSV file.  Those files are not in this repository individually, but have been concatenated into the authors.csv (in files), publications.csv, copublications.csv, and unfilledpubs.csv (all in csvdata).  In total, there was information on 31 authors that had results that won a Nobel Prize in the period 2017 to 2019 or were one degree away from one of those winners, for 75 publications from 15 winners and 70 publications from 16 first-degree-related authors.
 
-* analysis.ipynb is a Jupyter notebook of python that analyzes the information from obtain.ipynb, specifically TF-IDF on the text of abstracts from publications.csv and copublications.csv, looking at 84 records in total.  It then runs keras Sequential models to see how accurately it can predict using TF-IDF for whether an abstract was listed on a Nobel Prize winner's Author page or on a winner's co-author's page (43%) or what Nobel scientific field it falls into (17%).
+* analysis.ipynb is a Jupyter notebook of python that analyzes the information from obtain.ipynb, specifically TF-IDF on the text of abstracts from publications.csv and copublications.csv, looking at 84 records in total.  It then runs keras Sequential models to see how accurately it can predict using TF-IDF for whether an abstract was listed on a Nobel Prize winner's Author page or on a winner's co-author's page (42% accuracy) or what Nobel scientific field it falls into (17% accuracy).
 
 
 ### files folder
